@@ -1,0 +1,2 @@
+- [x] Unique no accountNumber
+- [x] Mensagem de conflito
